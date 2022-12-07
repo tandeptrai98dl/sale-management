@@ -10,10 +10,10 @@
     "name": ""
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.0",
     "debug": "^2.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.2",
     "morgan": "^1.9.1",
     "pug": "^2.0.0-beta6",
